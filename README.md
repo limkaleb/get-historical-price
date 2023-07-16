@@ -1,5 +1,5 @@
 # get-historical-price
-Get historical price from yahoo finance
+Get historical price from [yahoo finance](https://finance.yahoo.com/)
 
 Get the average price monthly from 2017 - 2022
 Can update the curl link if u want another year
